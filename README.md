@@ -1,2 +1,2 @@
-# Hello-World-
-This is my Very first line of code
+# Hello, World
+This is my very first line of code
